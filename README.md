@@ -2,8 +2,9 @@
 sentraID is a lightweight Linux authentication log monitoring and detection tool.<br/>
 
 It monitors:<br/>
-Red Hat-based systems: /var/log/secure<br/>
-Debian-based systems: /var/log/auth.log<br/><br/>
+-Red Hat-based systems: /var/log/secure<br/>
+-Debian-based systems: /var/log/auth.log<br/>
+-Windows-based systems: Windows Event ID 4624 and 4625<br/><br/>
 
 ### Features
 It detects four security events:<br/>
